@@ -1,0 +1,471 @@
+.box{
+	width: 1200px;
+	height: 740px;
+	margin-top: -45px;
+	margin-left: 165px;
+	position: relative;
+	background-image: url(../img/зображення_viber_2020-09-05_15-56-27.jpg);
+}
+.p{
+	text-transform: uppercase;
+	color: white;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 45px;
+	font-weight: bold;
+	text-align: center;
+}
+.text{
+	font-family: sans-serif;
+	font-size: 23px;
+	margin-top: 19px;
+	font-weight: bold;
+}
+.text2{
+	font-family: sans-serif;
+	font-size: 23px;
+	margin-top: 50px;
+	font-weight: bold;
+	margin-left: 160px;
+	float: left;
+}
+.bb{
+	line-height: 100px;
+	clear: both;
+	text-align: center;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.bb1{
+	clear: both;
+	text-align: center;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.nn{
+	font-size: 27px;
+}
+.text9{
+	font-weight: bold;
+	font-family: sans-serif;
+	font-size: 23px;
+	float: left;
+}
+.hh4{
+	font-weight: bold;
+	font-family: sans-serif;
+	font-size: 23px;
+}
+.hh5{
+	margin-top: -17px;
+	color: white;
+}
+.glo{
+ color: black;
+ padding: 10px 20px;
+ width:100px;
+ text-decoration:none;
+ text-align:center;
+ margin:20px auto;
+ display: block;
+ background-image: linear-gradient(to left,transparent,transparent 50%,black 50%,black);
+ background-position: 100% 0;
+ background-size: 200% 100%;
+ transition: all .25s ease-in;
+ font: 400 18px tahoma;
+ border: 1px solid black;
+}
+.glo:hover {
+background-position: 0 0;
+color: white;
+background: black;
+}
+.box1{
+	width: 1000px;
+	position: relative;
+	margin: 0 auto;
+
+}
+.header{
+	background-image: linear-gradient(to left bottom, #ffd700, #ffd94e, #ffdc77, #fedf9c, #f7e3bf);
+	width: 948px;
+	border-radius: 7px;
+	clear: both;
+	overflow: hidden;
+	margin-left: 25px;
+	margin-top: 5px;
+	height: 100px;
+
+}
+ul li{
+	list-style: none;
+}
+.footer1{
+	border-radius: 5px;
+	width: 950px;
+	margin-left: 5px;
+	padding: 20px;
+	font-weight: bold;
+	color: #051A43;
+}
+.a{
+	text-decoration: none;
+	color: #203c4b;
+}
+.article1{
+	float: right;
+	width: 580px;
+	border-radius: 10px;
+	margin-top: 10px;
+	padding: 10px;
+	margin-right: 22px;
+}
+.footer{
+	width: 960px;
+	padding: 20px;
+	clear: both;
+	background: black;
+	font-weight: bold;
+	color: #051A43;
+}
+.kVvzisfA{
+	float: right;
+	margin-top: 10px;	
+
+}.gg{
+	float: right;
+	margin-right: 12px;
+	margin-top: 11px;	
+	
+}
+.c89{
+	float: right;
+	margin-top: 9px;
+	margin-top: 45px;
+
+}
+.c8{
+	margin-top: 11px;
+	float: right;	
+	margin-right: 12px;
+	
+}
+.footer_paragraph2{
+	text-decoration: none;
+	color: white;
+	text-align: center;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.headline{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+	color: orange;
+	text-transform: uppercase;
+}
+.headline1{
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-top: 120px;
+	margin-left: 50px;
+	float: left;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+	color: orange;
+	text-transform: uppercase;
+}
+.headline3{
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-top: 140px;
+	float: right;
+	margin-right: -8px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+	color: orange;
+	text-transform: uppercase;
+}
+.headline7{
+	color: orange;
+	background: white;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	float: left;
+	margin-top: 400px;
+	margin-left: -100spx;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+	color: orange;
+}
+.headline7:hover{
+	color: white;
+	background: orange;
+}
+.headline1:hover{
+	color: white;
+	background: orange;
+}
+.headline3:hover{
+	color: white;
+	background: orange;
+}
+.nav{
+	background-image: url(../img/13.jpg); 
+	float: left;
+	width: 290px;
+	border-radius: 5px;
+	margin-top: 10px;
+	padding-left: 1px;
+	padding-right: 20px;
+	line-height: 37px;
+	margin-left: 25px;
+}
+.menu_link{
+	border-radius: 5px;
+	text-decoration: none;
+	padding: 5px;
+	margin-bottom: 10px;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-left: -20px;
+	color: #203c4b;
+	display: inline-block;
+}
+.text1{
+	color: white;
+}
+.menu_link2:hover{
+	background: darkorange;
+}
+.menu_link1:hover{
+	background: orange;
+}
+.menu_link:hover{
+	background: orange;
+}
+.paragraph{
+	margin-top: 20px;
+	font-size: 20px;
+	text-align: justify;
+}
+.chipimg{
+	margin-left: 1px;
+}
+.headline2{
+	line-height: 70px;
+	margin-top: -1px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 27px;
+}
+.vv{
+	line-height: 70px;
+	margin-top: 4px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 27px;
+}
+.he{
+	line-height: 90px;
+	text-align: left;
+	margin-top: -1px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 27px;
+}
+.span{
+	font-weight: bold;
+}
+.er3{
+	padding: 5px; 
+	border: 3px solid white;
+	margin-left: 10px;
+	text-decoration: none;
+	color: black;
+	text-align: center;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.er4{
+	padding-right: 15px;
+	padding-left: 15px; 
+	padding-top: 5px; 
+	padding-bottom: 5px;  
+	border: 3px solid white;
+	margin-left: 10px;
+	text-decoration: none;
+	color: black;
+	text-align: center;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.er3:hover{
+	background: black;
+	border-color: black;
+	color: white
+}
+.er4:hover{
+	background: black;
+	border-color: black;
+	color: white
+}
+.img{
+	margin-left: 460px;
+}
+.img1{
+	margin-left: 10px;
+}
+.paragraph2{
+	font-size: 20px;
+	text-align: justify;
+	border: 3px solid deepskyblue;
+	padding: 5px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.div5{
+	border: 3px solid deepskyblue;
+	margin-top: 10px;
+	padding: 10px;
+	font-size: 21px;
+	float: left;
+	margin-bottom: 10px;
+	width: 	580px;
+}
+.div6{
+	width: 	580px;
+	border: 3px solid orange;
+	margin-top: 10px;
+	padding: 10px;
+	font-size: 21px;
+	margin-bottom: 10px;
+	float: right;
+}
+
+.div1{
+	margin-top: 50px;
+	float: right;
+	width: 400px;
+	border-radius: 10px;
+	padding: 10px;
+}
+.paragraph3{
+	font-size: 20px;
+	text-align: justify;
+	background: deepskyblue;
+	color: white;
+	padding: 5px;
+	margin-bottom: -50px;
+	margin-right: 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.f3{
+	margin-top: 50px;
+	margin-left: 30px;
+	float: left;
+	width:400px;
+}
+.div{
+	float: right;
+	width: 580px;
+	border-radius: 10px;
+	margin-top: 10px;
+	padding: 10px;
+	margin-right: 22px;
+}
+.f{
+	text-align: center;
+}
+.f6{
+	padding: 10px;
+	width: 1000px;
+	height: 550px;
+	text-align: center;
+	background-image: url(../img/VR.gif);
+}
+.headline5{
+	background: white;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-top: 380px;
+	float: right;
+	margin-right: -150px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+	color: orange;
+	text-transform: uppercase;
+	font-size: 25px;
+}
+.headline5:hover{
+	color: white;
+	background: orange;
+}
+.g{
+	font-weight: bold;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 5px;
+	color: white;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin-left: 10px;
+}
+.g1{
+	font-weight: bold;
+	padding: 5px;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin-left: 250px;
+	margin-top: 10px;
+}
+.g2{
+	padding: 5px;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin-left: 13px;
+	float: right;
+	margin-top: -5px;
+	margin-right: 10px;
+	font-weight: bold;
+}
+.g:hover{
+	color: orange;
+	background: white;
+}
+.g1:hover{
+	color: orange;
+	background: white;
+}
+.g2:hover{
+	color: orange;
+	background: white;
+}
+.foote{
+	width: 960px;
+	padding: 20px;
+	background: black;
+}
+
+.pressf{
+	padding: 7px;
+	float: left;
+	width: 400px;
+	border: 3px solid deepskyblue;
+}
+.paragrap{
+	font-size: 20px;
+	text-align: justify;
+}
+.px{
+	padding: 7px;
+	margin-right: 20px;
+	float: right;
+	width:527px;
+	margin-top: 13px;
+	border: 3px solid deepskyblue;
+}
+.m{
+	float: right;
+	margin-right: 20px;
+}
